@@ -10,8 +10,7 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 setup(
     name="api-key-rotator-lang1234",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="xLang1234",
     description="A Python library for rotating API keys with automatic expiration handling",
     long_description=long_description,
     long_description_content_type="text/markdown",

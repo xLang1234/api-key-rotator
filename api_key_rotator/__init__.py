@@ -8,5 +8,5 @@ multiple API keys, with support for automatic expiration, TTL, and dynamic key f
 from .rotator import KeyRotator, with_key_rotation
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "xLang1234"
 __all__ = ["KeyRotator", "with_key_rotation"]
