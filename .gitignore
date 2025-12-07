@@ -148,3 +148,6 @@ Thumbs.db
 
 # PyPI
 .pypirc
+
+# PyPI Recovery Codes (sensitive!)
+PyPI-Recovery-Codes-*.txt
