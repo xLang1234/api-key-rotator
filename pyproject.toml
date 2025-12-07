@@ -3,7 +3,7 @@ requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "api-key-rotator"
+name = "api-key-rotator-lang1234"
 version = "0.1.0"
 description = "A Python library for rotating API keys with automatic expiration handling"
 readme = "README.md"
@@ -33,10 +33,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/api-key-rotator"
-Documentation = "https://github.com/yourusername/api-key-rotator#readme"
-Repository = "https://github.com/yourusername/api-key-rotator"
-"Bug Tracker" = "https://github.com/yourusername/api-key-rotator/issues"
+Homepage = "https://github.com/xLang1234/api-key-rotator"
+Documentation = "https://github.com/xLang1234/api-key-rotator#readme"
+Repository = "https://github.com/xLang1234/api-key-rotator"
+"Bug Tracker" = "https://github.com/xLang1234/api-key-rotator/issues"
 
 [tool.setuptools]
 packages = ["api_key_rotator"]

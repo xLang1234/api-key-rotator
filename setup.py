@@ -8,18 +8,18 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 
 setup(
-    name="api-key-rotator",
+    name="api-key-rotator-lang1234",
     version="0.1.0",
     author="Your Name",
     author_email="your.email@example.com",
     description="A Python library for rotating API keys with automatic expiration handling",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/api-key-rotator",
+    url="https://github.com/xLang1234/api-key-rotator",
     project_urls={
-        "Bug Tracker": "https://github.com/yourusername/api-key-rotator/issues",
-        "Documentation": "https://github.com/yourusername/api-key-rotator#readme",
-        "Source Code": "https://github.com/yourusername/api-key-rotator",
+        "Bug Tracker": "https://github.com/xLang1234/api-key-rotator/issues",
+        "Documentation": "https://github.com/xLang1234/api-key-rotator#readme",
+        "Source Code": "https://github.com/xLang1234/api-key-rotator",
     },
     packages=find_packages(),
     classifiers=[

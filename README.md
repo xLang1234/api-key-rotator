@@ -1,7 +1,7 @@
 # API Key Rotator
 
-[![PyPI version](https://badge.fury.io/py/api-key-rotator.svg)](https://badge.fury.io/py/api-key-rotator)
-[![Python Versions](https://img.shields.io/pypi/pyversions/api-key-rotator.svg)](https://pypi.org/project/api-key-rotator/)
+[![PyPI version](https://badge.fury.io/py/api-key-rotator-lang1234.svg)](https://badge.fury.io/py/api-key-rotator-lang1234)
+[![Python Versions](https://img.shields.io/pypi/pyversions/api-key-rotator-lang1234.svg)](https://pypi.org/project/api-key-rotator-lang1234/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful, thread-safe Python library for managing and rotating API keys with automatic expiration handling, TTL support, and dynamic key fetching.
@@ -21,7 +21,7 @@ A powerful, thread-safe Python library for managing and rotating API keys with a
 Install from PyPI using pip:
 
 ```bash
-pip install api-key-rotator
+pip install api-key-rotator-lang1234
 ```
 
 ## Quick Start
